@@ -1,0 +1,42 @@
+[
+  {
+    "Arbol": "Ciruelo",
+    "Altura": 12,
+    "Comparado": "0,7"
+  },
+  {
+    "Arbol": "Robinia",
+    "Altura": 48,
+    "Comparado": "2,7"
+  },
+  {
+    "Arbol": "Acer",
+    "Altura": 18,
+    "Comparado": 1
+  },
+  {
+    "Arbol": "Liquidambar",
+    "Altura": 35,
+    "Comparado": 2
+  },
+  {
+    "Arbol": "Espino",
+    "Altura": 6,
+    "Comparado": "0,3"
+  },
+  {
+    "Arbol": "Quillay",
+    "Altura": 17,
+    "Comparado": "0,9"
+  },
+  {
+    "Arbol": "Maiten",
+    "Altura": 20,
+    "Comparado": "1,1"
+  },
+  {
+    "Arbol": "Peumo",
+    "Altura": 30,
+    "Comparado": "1,6"
+  }
+]
